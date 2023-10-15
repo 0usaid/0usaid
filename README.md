@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**0usaid/0usaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### helloMortalBeings
+about me:<br/>
+-currently a computer sciences and medicine<br/>
+-maths and physcis enthusiast<br/>
+-CSS<br/>
+-HTML<br/>
+-Visual Basic<br/>
+-RDMBS/DMBS<br/>
+-SQL<br/>
+-looking forward to work full-time remotely in the IT-sector<br/>
