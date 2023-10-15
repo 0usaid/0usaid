@@ -1,6 +1,6 @@
 ### helloMortalBeings
 about me:<br/>
--currently a computer sciences and medicine<br/>
+-currently a student of computer sciences and medicine<br/>
 -maths and physcis enthusiast<br/>
 -CSS<br/>
 -HTML<br/>
