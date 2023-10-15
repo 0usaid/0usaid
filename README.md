@@ -1,7 +1,7 @@
 ### helloMortalBeings
 about me:<br/>
 -currently a student of computer sciences and medicine<br/>
--maths and physcis enthusiast<br/>
+-maths and physics enthusiast<br/>
 -CSS<br/>
 -HTML<br/>
 -Visual Basic<br/>
